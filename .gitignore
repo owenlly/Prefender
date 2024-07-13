@@ -1,4 +1,5 @@
 *.opt
 *.out
+*.tar.xz
 m5out
 __pycache__

@@ -17,7 +17,10 @@ In the shared Google drive directory, we include compiled gem5 executable files 
 
 # Example Usage
 
-1. Download the compiled gem5 executable files from Google drive.
+1. Download the compiled gem5 executable files from Google drive and decompress:
+    ```
+    tar -xvf gem5_prefender.tar.xz
+    ```
 
 2. Go to `./attacks` and compile all the attack PoCs:
     ```
