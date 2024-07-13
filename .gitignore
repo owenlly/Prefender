@@ -1,0 +1,4 @@
+*.opt
+*.out
+m5out
+__pycache__
