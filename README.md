@@ -9,7 +9,7 @@
 
 
 # Compiled Proof-of-Concept
-Link: https://drive.google.com/drive/folders/1Akro6H-yJxkUySdVJ2Lrv0UXpsGp6m1P?usp=sharing
+Link: https://drive.google.com/file/d/1h8EogDYHDDjZeObBVHhJy1xyP6MkNe19/view?usp=sharing
 
 This compiled PoC is based on the extended version of the Prefender paper on TC, including the Record Protector(RP) to increase the robustness of original version.
 
@@ -19,6 +19,8 @@ In the shared Google drive directory, we include compiled gem5 executable files 
 
 1. Download the compiled gem5 executable files from Google drive and decompress:
     ```
+    pip3 install gdown
+    gdown https://drive.google.com/uc?id=1h8EogDYHDDjZeObBVHhJy1xyP6MkNe19
     tar -xvf gem5_prefender.tar.xz
     ```
 
