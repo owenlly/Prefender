@@ -25,10 +25,12 @@ In the shared Google drive directory, we include compiled gem5 executable files 
     make
     ```
 3. For example, to run the Flush+Reload attack on Prefender:
+
     **Default hardware prefetcher:** Stride Prefetcher
     ```
     ./gem5_prefender_on.opt configs/example/se.py --cpu-type=DerivO3CPU --caches --l2cache --l1d-hwp-type=StridePrefetcher -c ./attacks/flush_reload.out
     ```
+    
     **Default hardware prefetcher:** Tagged Prefetcher
     ```
     ./gem5_prefender_on.opt configs/example/se.py --cpu-type=DerivO3CPU --caches --l2cache --l1d-hwp-type=TaggedPrefetcher -c ./attacks/flush_reload.out
