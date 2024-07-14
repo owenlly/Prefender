@@ -3,9 +3,9 @@
 
 **Organization:** *Nanjing University, **UC Santa Barbara
 
-**Original Version on DATE 2022:** [PDF](https://www.owenlly.top/uploads/date2022_prefender_paper.pdf)
+**Original Version on DATE 2022:** [Link](https://ieeexplore.ieee.org/abstract/document/10473217)
 
-**Extended Version on TC:** [PDF](https://www.owenlly.top/uploads/tc2024_prefender_paper.pdf)
+**Extended Version on TC:** [Link](https://ieeexplore.ieee.org/abstract/document/9774658)
 
 
 # Compiled Proof-of-Concept
